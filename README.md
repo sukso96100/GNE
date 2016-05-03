@@ -44,18 +44,20 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 }
 ```
 
-흐름 제어 : 
+### Control flow
 * a
 * s
 
-ㅋ:
+### The exciting parts
 * String은 쌍따옴표나 따옴표로 감쌉니다. ("GNE를 보면 버그의 기운이 온다")
+* The is and are keywords are used both to check for equality, and for assignment. To use for assignment, say something like * Trump is great or Democrats are dumb. To use to check for equality, do the same but append a ?. For example, you may need to ask yourself Trump is "the best"? (although we all know that would evaluate to fact anyway)
 
 Example:
 ```
 호롤롤로로로로로로 hohohohoho
 ```
-
+### 제약사항
+* 익명함수는 사용할 수 없습니다. 익명성은 대한민국의 안보를 안전치 못하게 합니다. 테러가 일어나면 새정치민주연합이 책임져야 합니다.
 ## 디버깅
 그저 생기는 버그만 생긴다는 그것을 안생기다 하는 마음으로 컨벤션을 잘 지키다 보면 어느세 이렇게 좋은 코드가 되었나 이젠 코더들도 걱정없는 그러한 마음으로 이것이다 하는 마음으로 코드를 써야지 안그러면 안되요.
 
@@ -70,3 +72,6 @@ GNE의 런타임입니다. 뒤에 Argument로 실행할 파일을 이것이다, 
 * Shaman1sm
 * jclypeata
 * lwsnw
+
+### 함께하는 행복
+집단연구나 많은 국민들이 지식을 결집시켜 함께 궁리해나가야 하는 것을 포함하고 있는 문서라고 볼 수 있다고 판단되는 바입니다. 자유로운 Pull Request는 언제나 환영합니다.
