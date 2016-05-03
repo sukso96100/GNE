@@ -27,8 +27,6 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 
 ### 에러 핸들링
 * 간첩도 잡아내는 애국심 충만한 에러 헨들링 구문은 `try`와 `catch`는 `한번 해보세요`와 `살려야한다`로 대체됩니다.
-<img src="http://cfile29.uf.tistory.com/image/234E0C3A551AC20D134A2C" style="width: 300px; display: inline-block">
-<img src="http://img.sbs.co.kr/newimg/news/20150731/200856222_700.jpg" style="width: 300px; display: inline-block">
 
 ```
 한번 해보세요 {
