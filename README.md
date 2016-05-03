@@ -29,7 +29,8 @@ Our language includes several convenient features, perfect for any aspiring Pres
 산술 연산자:
 * `+` 와 `더하기` 는 덧셈을 합니다
 * `true`와 `false` 대신에 `친박`과 `비박`을 사용한다.
-* ㅇ
+* '=' 대신에 '이것이다'를 사용합니다. 
+  ex) 목표 = 달성해야 할 것 -> 우리의 목표는, 달성해야 할 것은 이것이다.
 * ㄹ
 
 Control flow:
