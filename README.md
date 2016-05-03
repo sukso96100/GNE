@@ -42,7 +42,7 @@ The exciting parts:
 
 Example:
 ```
-asdfasdflkj
+hohohohoho
 ```
 
 ## 디버깅
