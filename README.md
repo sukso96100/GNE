@@ -22,7 +22,7 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 * EUC-KR만을 지원합니다. 유니코드는 한국의 기술이 아니며 국가경쟁력을 강화하지 못하니까요.
 * `true`와 `false` 대신에 `친박`과 `비박`을 사용합니다.
 * `import`와 `export` 대신 `입당`과 `출당`을 사용합니다.
-* 버그가 생겼나요? 걱정 마세요, GNE에는 온 우주가 도와주는 `재난 콘트롤 센터`라는 디버거가 있습니다.
+* 병충해 피해를 입었나요? 걱정 마세요, GNE에는 온 우주가 도와주는 `재난 콘트롤 센터`라는 디버거가 있습니다.
 * 오류 발생시 `Call Trace`가 표시되는 대신 `제가 뭐라고 했습니까?`가 표시됩니다.
 
 ## 문법
@@ -44,13 +44,12 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 }
 ```
 
-Control flow:
+흐름 제어 : 
 * a
 * s
 
-The exciting parts:
-* Strings are denoted by double quotes ("I love Trump")
-* The is and are keywords are used both to check for equality, and for assignment. To use for assignment, say something like * Trump is great or Democrats are dumb. To use to check for equality, do the same but append a ?. For example, you may need to ask yourself Trump is "the best"? (although we all know that would evaluate to fact anyway)
+ㅋ:
+* String은 쌍따옴표나 따옴표로 감쌉니다. ("GNE를 보면 버그의 기운이 온다")
 
 Example:
 ```
@@ -59,6 +58,8 @@ Example:
 
 ## 디버깅
 그저 생기는 버그만 생긴다는 그것을 안생기다 하는 마음으로 컨벤션을 잘 지키다 보면 어느세 이렇게 좋은 코드가 되었나 이젠 코더들도 걱정없는 그러한 마음으로 이것이다 하는 마음으로 코드를 써야지 안그러면 안되요.
+
+전체 코드를 다 보면 그런 기운이 와요. 그 병충해나 이런 여러 가지는 그런 진상규명이 확실하게 되고 그것에 대해서 예외처리가 이렇게 돼서 그것이 하나하나 밝혀지면서 투명하게 처리가 된다, 그것은 `재난 컨트롤 센터`가 분명히 알겠어요.
 
 ### 해내겠습니다
 
