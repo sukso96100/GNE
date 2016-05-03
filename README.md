@@ -163,13 +163,11 @@ GNE의 패키지 매니저입니다. 레포지터리 `-북한` 에 패키지를 
 개성공단 -구호 -북한 "Repository" -대북_확성기 ""
 ```
 ## 오늘만 사는 <del>사람</del>고양이들
-<<<<<<< HEAD
-=======
+
 > 판사님 저는 고양이에오. 저희 주인은 아무것도 몰라요.
 
 ![Image of the owner of this repo.](http://cl.jroo.me/z3/Y/r/k/e/a.baa-Cat-on-laptop.jpg)
 
->>>>>>> b8bfda76d5a5dbdf232f507d8991c7a63f8f4a71
 * akic4op4, [@happyconeyaaas](https://twitter.com/happyconeyaaas)
 * Shaman1sm
 * jclypeata
