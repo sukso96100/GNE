@@ -48,6 +48,16 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 목표 = 달성해야 할 것 -> 우리의 목표는, 달성해야 할 것은 이것이다.
 ```
 
+예외 처리:
+```
+한번 해 보세요{
+    ...
+}
+예외처리 다 어디 갔냐고{
+    ...
+}
+```
+
 Control flow:
 * a
 * s
@@ -66,8 +76,10 @@ Example:
 
 ### 해내겠습니다
 
+GNE의 런타임입니다. 뒤에 Argument로 실행할 파일을 이것이다, 하고 명기를 해 주면 됩니다. 스크립트 실행 해내겠습니다.
 
 ## 오늘만 사는 사람들
 * akic4op4, [@happyconeyaaas](https://twitter.com/happyconeyaaas)
 * Shaman1sm
 * jclypeata
+* lwsnw
