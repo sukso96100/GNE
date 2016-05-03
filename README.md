@@ -49,6 +49,7 @@ Example:
 
 ### 해내겠습니다
 
+GNE의 런타임입니다. 뒤에 Argument로 실행할 파일을 이것이다, 하고 명기를 해 주면 됩니다. 스크립트 실행 해내겠습니다.
 
 ## 오늘만 사는 사람들
 * akic4op4, [@happyconeyaaas](https://twitter.com/happyconeyaaas)
