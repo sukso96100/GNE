@@ -50,8 +50,7 @@ asdfasdflkj
 
 
 ## 오늘만 사는 사람들
-akic4op4, [@happyconeyaaas](https://twitter.com/happyconeyaaas)
-Shaman1sm
-jclypeata
+* akic4op4, [@happyconeyaaas](https://twitter.com/happyconeyaaas)
+* Shaman1sm
+* jclypeata
 
-hellohoho
