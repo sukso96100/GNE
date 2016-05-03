@@ -65,7 +65,6 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 
 ### The exciting parts
 * String은 쌍따옴표나 따옴표로 감쌉니다. ("GNE를 보면 버그의 기운이 온다")
-* The is and are keywords are used both to check for equality, and for assignment. To use for assignment, say something like * Trump is great or Democrats are dumb. To use to check for equality, do the same but append a ?. For example, you may need to ask yourself Trump is "the best"? (although we all know that would evaluate to fact anyway)
 
 Example:
 ```
@@ -123,6 +122,9 @@ Example:
 그저 생기는 버그만 생긴다는 그것을 안생기다 하는 마음으로 컨벤션을 잘 지키다 보면 어느세 이렇게 좋은 코드가 되었나 이젠 코더들도 걱정없는 그러한 마음으로 이것이다 하는 마음으로 코드를 써야지 안그러면 안되요.
 
 전체 코드를 다 보면 그런 기운이 와요. 그 병충해나 이런 여러 가지는 그런 진상규명이 확실하게 되고 그것에 대해서 예외처리가 이렇게 돼서 그것이 하나하나 밝혀지면서 투명하게 처리가 된다, 그것은 `재난 컨트롤 센터`가 분명히 알겠어요.
+
+## 패키지
+패키지의 이름을 결정할 때는 항상 한국형-* 형식이여야 합니다. GPL? MIT? 라이센스는 묻지도 따지지도 않습니다.
 
 ### 해내겠습니다
 
