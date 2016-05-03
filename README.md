@@ -32,6 +32,16 @@ Our language includes several convenient features, perfect for any aspiring Pres
 * ㅇ
 * ㄹ
 
+예외 처리:
+```
+한번 해 보세요{
+    ...
+}
+예외처리 다 어디 갔냐고{
+    ...
+}
+```
+
 Control flow:
 * a
 * s
