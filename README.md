@@ -44,11 +44,11 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 }
 ```
 
-Control flow:
+### Control flow
 * a
 * s
 
-The exciting parts:
+### The exciting parts
 * Strings are denoted by double quotes ("I love Trump")
 * The is and are keywords are used both to check for equality, and for assignment. To use for assignment, say something like * Trump is great or Democrats are dumb. To use to check for equality, do the same but append a ?. For example, you may need to ask yourself Trump is "the best"? (although we all know that would evaluate to fact anyway)
 
@@ -56,7 +56,8 @@ Example:
 ```
 호롤롤로로로로로로 hohohohoho
 ```
-
+### 제약사항
+* 익명함수는 사용할 수 없습니다. 익명성은 대한민국의 안보를 안전치 못하게 합니다. 테러가 일어나면 새정치민주연합이 책임져야 합니다.
 ## 디버깅
 그저 생기는 버그만 생긴다는 그것을 안생기다 하는 마음으로 컨벤션을 잘 지키다 보면 어느세 이렇게 좋은 코드가 되었나 이젠 코더들도 걱정없는 그러한 마음으로 이것이다 하는 마음으로 코드를 써야지 안그러면 안되요.
 
