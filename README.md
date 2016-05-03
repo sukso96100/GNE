@@ -42,7 +42,7 @@ The exciting parts:
 
 Example:
 ```
-hohohohoho
+호롤롤로로로로로로 hohohohoho
 ```
 
 ## 디버깅
