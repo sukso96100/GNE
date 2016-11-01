@@ -185,7 +185,7 @@ GNE의 패키지 매니저입니다. 레포지터리 `-북한` 에 패키지를 
 
 ![Image of the owner of this repo.](http://cl.jroo.me/z3/Y/r/k/e/a.baa-Cat-on-laptop.jpg)
 
-* akic4op4, [@happyconeyaaas](https://twitter.com/happyconeyaaas)
+* akic4op4, [@happppycone](https://twitter.com/happppycone)
 * Shaman1sm
 * jclypeata
 * lwsnw
