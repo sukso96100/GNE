@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/akic4op4/GNE/master/ss.jpg" style="display:block; width: 100%;">
+
 # GNE
 준비된 한국형 언어
 
