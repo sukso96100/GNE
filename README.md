@@ -221,7 +221,7 @@ GNE의 패키지 매니저입니다. 레포지터리 `-북한` 에 패키지를 
 ```
 
 ## 기반시스템 SSVM
-GNE는 SoonSil Virtual Machine을 기반으로 해 구동됩니다. 런타임 "해내겠습니다"의 실세입니다.
+GNE는 SoonSil Viseonsilse Machine을 기반으로 해 구동됩니다. 런타임 "해내겠습니다"의 실세입니다.
 
 ## 오늘만 사는 <del>사람</del>고양이들
 
