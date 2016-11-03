@@ -29,6 +29,7 @@ GNE는 한국의 실태를 반영을 효과적으로 했다, 그렇다고 말할
 ## ~~화법~~문법
 ### 용어 대응
 * 실행 가능한 프로그램을 `사회` 라고 부릅니다.
+* 실행 가능한 프로그램의 코드들은 `개,돼지`라고 부른다.
 * Breakpoint는 `메르스`로 대체됩니다.
 * Trace는 `우리의 목표는, 진행하는 것 그것으로`로 대체됩니다.
 * Exit는 `고심 끝에 프로세스 해체`로 대체됩니다.
@@ -294,14 +295,15 @@ SSVM 실행에는 많은 자원이 필요합니다. 본인의 컴퓨터 사양�
 
 ### 제약 사항
 ## 기반시스템 SSVM
-SoonSil Viseonsilse Machine의 약자이며, "순실브이엠"으로 읽습니다.
 GNE로 만든 `사회`는 SSVM을 기반으로 구동됩니다. 런타임 "해내겠습니다"의 실세입니다.
+독일 저녁이 되는 시간(UTC +2)에는 잠들기 때문에 GNE로 만든 사회는 작동하지 않습니다.
+SoonSil Viseonsilse Machine의 약자이며, "순실브이엠"으로 읽습니다. SSVM자체적으로 이름을 자주 바꾸니 주의가 필요합니다. 다른 이름으로는 PhilNye Viseonsilse Machine, SeoWon Viseonsilse Machine이 있습니다.
 
 해당 런타임은 실행을 위해 독일에 위치한 서버에서 허가를 받아야 합니다. 승인에 독일과의 시차 7시간이 걸리더라도 놀라지 마세요 : )
 
 SSVM의 버그에 의문을 갖지 마세요. 뺨을 맞을 수 있습니다. 버그 리포팅을 할 떄는 SSVM 이슈 트래커가 발뺌하지 못하도록 반드시 이미지를 첨부해 주세요. 해당 이슈가 승인될 경우 "내 사진이 어떻게 거기에 있지"가 표시됩니다.
 
-[Node.js](https://nodejs.org/ko/) 기반의 구현에 대해서는 [K-SSVM for Node.js]https://github.com/xnuk/K-SSVM-node)를 참고하십시오
+[Node.js](https://nodejs.org/ko/) 기반의 구현에 대해서는 [K-SSVM for Node.js](https://github.com/xnuk/K-SSVM-node)를 참고하십시오
 ### 팔선녀회
 SSVM은 `팔선녀회`를 활용하여 고성능의 연산을 할 수 있습니다. `팔선녀회`는 8개의 멀티 프로세싱 코어이며 각각 다양한 분야에서 활약합니다. `팔선녀회`를 활용하여 `사회`를 만들려면 `JTBC`(Joseon Turbo Boost Compiler)로 컴파일해야합니다. 현재 `JTBC`는 태블릿과 같은 ARM processor만 지원합니다.
 
